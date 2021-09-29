@@ -1,0 +1,27 @@
+[submodule "simple-pom-3"]
+	path = Maven/simple-pom-3
+	url = https://github.com/samjcs/simple-pom-3
+[submodule "simple-pom-2"]
+	path = Maven/simple-pom-2
+	url = https://github.com/samjcs/simple-pom-2
+[submodule "simple-pom-1"]
+	path = Maven/simple-pom-1
+	url = https://github.com/samjcs/simple-pom-1
+[submodule "simple-pom-4"]
+	path = Maven/simple-pom-4
+	url = https://github.com/samjcs/simple-pom-4
+[submodule "Gradle/simple-build-1"]
+	path = Gradle/simple-build-1
+	url = https://github.com/samjcs/simple-build-1
+[submodule "Gradle/simple-build-2"]
+	path = Gradle/simple-build-2
+	url = https://github.com/samjcs/simple-build-2
+[submodule "Gradle/simple-build-3"]
+	path = Gradle/simple-build-3
+	url = https://github.com/samjcs/simple-build-3
+[submodule "Gradle/kotlin-build-1"]
+	path = Gradle/kotlin-build-1
+	url = https://github.com/samjcs/kotlin-build-1
+[submodule "Gradle/kotlin-build-2"]
+	path = Gradle/kotlin-build-2
+	url = https://github.com/samjcs/kotlin-build-2
